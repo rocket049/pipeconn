@@ -5,3 +5,5 @@
 服务器方建立连接时调用`pipeconn.NewServerPipeConn()`
 
 客户端建立连接时调用`NewClientPipeConn(progPath , args...)`
+
+**`rpc` 目录中的是一个示例程序。**
